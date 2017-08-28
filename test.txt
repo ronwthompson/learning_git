@@ -1,3 +1,10 @@
 hello there!
 ANOTHER CHANGE HERE!!!!!!!!!!!!
+<<<<<<< HEAD
 ronald was here!
+=======
+
+
+Change for kevin
+>>>>>>> 2c045ce5bea022ef6d00ff4313c22f061f4cc41d
+one more change
